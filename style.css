@@ -3,7 +3,7 @@
 background-repeat: no-repeat;
 background-size: cover;
 width: 100%;
-height:800px;
+height: 100vh;
 }
 .heading-hangover{
     font-size: 80px;
@@ -60,8 +60,65 @@ btn-1{
     
 }
 .second-part{
-    background-color: aqua;
+    background-color: rgb(2, 209, 209);
     width: 100%;
-    height: 100vh;
+    height: 800px;
+    
+}
+.heading-part-2{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     margin-top: 100px;
+}
+hr{
+    width: 100%;
+}
+.img-part-2{
+    width: 600px;
+    height: 400px;
+    margin-top: 100px;
+}
+.para-part-2{
+    margin-top: 100px;
+    padding: 0px;
+}
+.btn-2{
+    background-color: rgb(80, 80, 80);
+    color: aqua;
+    border: 1px solid rgb(82, 214, 214);
+    padding: 15px 25px;
+    margin-top: 50px;
+}
+.third-part{
+    background-color: rgb(87, 85, 85);
+    width: 100%;
+    height: 200vh;
+}
+.heading-third{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(37, 212, 212);
+    margin-top: 120px;
+    text-align: center;
+}
+.third-line{
+    color: black;
+    
+}
+.btn-third{
+    color: rgb(15, 199, 199);
+    background-color: rgb(59, 59, 59);
+    padding: 10px 25px;
+border: 1px solid rgb(59, 59, 59) ;
+text-align: center;
+margin-left: 20px;
+margin-top: 50px;
+
+}
+.first-btn-third{
+    color: rgb(59, 59, 59);
+    background-color:rgb(15, 199, 199) ;
+border: 1px solid rgb(15, 199, 199) ;
+padding: 10px 25px;
+margin-left: 20px;
+margin-top: 50px;
+
 }
