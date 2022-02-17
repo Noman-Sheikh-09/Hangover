@@ -1,0 +1,67 @@
+.header{
+      background-image: url(./Assets/head.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+width: 100%;
+height:800px;
+}
+.heading-hangover{
+    font-size: 80px;
+    text-align: center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-top: 250px;
+    color: white;
+    font-weight: bold;
+}
+.para-hangover{
+    color: white;
+    text-align: center;
+    font-size: 20px;
+}
+.btn-1{
+    background-color: aqua;
+    color: black;
+    margin-left: 130px;
+    padding: 10px 25px;
+    border: 1px solid aqua;
+    margin-top: 50px;
+
+}
+button a{
+    text-decoration: none;
+}
+a:havor{
+    background-color: gray;
+}
+
+@media (max-width: 768px){
+    header{
+  width: 100%;
+  height: 100vh;
+  }
+
+  .para-hangover{
+    font-size: 15px;
+}
+btn-1{
+    margin-left: 25%;
+
+}
+}
+
+@media (max-width: 380px){
+    .header{
+     margin: 0px;
+     padding: 0px;
+  }
+  .heading-hangover{
+ text-align: center;
+}
+    
+}
+.second-part{
+    background-color: aqua;
+    width: 100%;
+    height: 100vh;
+    margin-top: 100px;
+}
