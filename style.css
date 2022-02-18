@@ -192,3 +192,35 @@ i{
     padding: 15px;
     margin-top: 100px;
 }
+/* hovar effect */
+.btn-1:hover{
+    background-color: rgb(71, 70, 70);
+    color: rgb(0, 214, 214);
+    border: 1px solid  rgb(71, 70, 70);
+}
+.btn-2:hover{
+    background-color: rgb(32, 211, 211);
+    color: rgb(87, 85, 85);
+    border: 1px solid rgb(87, 85, 85);
+}
+.btn-third:hover{
+    background-color: rgb(32, 211, 211);
+    color: rgb(73, 72, 72);
+    border: 1px solid rgb(73, 72, 72);
+}
+.last-btn:hover{
+    background-color: rgb(31, 30, 30);
+    color: white;
+    border: 1px solid black;
+}
+.row-1:hover{
+    transform: scale(1.5);
+    transition: 1s;
+    opacity: 0.5;
+    /* text-overflow: Welcome; */
+    background-color: black;
+    
+}
+i:hover{
+    color: white;
+}
