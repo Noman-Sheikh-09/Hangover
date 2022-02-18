@@ -91,7 +91,7 @@ hr{
 .third-part{
     background-color: rgb(87, 85, 85);
     width: 100%;
-    height: 200vh;
+    height: 180vh;
 }
 .heading-third{
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -121,4 +121,74 @@ padding: 10px 25px;
 margin-left: 20px;
 margin-top: 50px;
 
+}
+.fourth-part{
+    background-color: rgb(94, 207, 207);
+    width: 100%;
+    height: 120vh;
+
+}
+.heading-part-4{
+    font-size: 30px;
+    text-align: center;
+    margin-top: 100px;
+
+}
+.line-fourth{
+    width: 50%;
+    margin-left: 25%;
+    color: black;
+    font-weight: bold;
+
+}
+.name{
+align-items: left;
+width: 400px;
+height: 50px;
+
+}
+.email{
+    align-items: right;
+    width: 400px;
+    height: 50px;
+    margin-left: 20px;
+}
+.massage{
+    width: 825px;
+    height: 100px;
+    margin-top: 25px;
+    padding: 0px;
+}
+.last-btn{
+    color: rgb(108, 235, 235);
+    background-color: rgb(94, 92, 92);
+    border: 1px solid rgb(94, 92, 92);
+    padding: 10px 20px;
+    margin-left: 40%;
+    margin-top: 100px;
+
+}
+.last-part{
+    background-color: rgb(71, 71, 71);
+    width: 100%;
+    height: 50px;
+}
+.copyright{
+    color: white;
+    text-align: center;
+    
+}
+/* images section */
+.row-1{
+    width: 300px;
+    height: 200px;
+    margin-top: 30px;
+    margin-left: 10px;
+}
+.img-section{
+    margin-top: 30px;
+}
+i{
+    padding: 15px;
+    margin-top: 100px;
 }
